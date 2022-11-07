@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movies-movieid",
+    "path": "/movies/:movieid?",
+    "component": "/Users/kedar.hegde/Desktop/training/nuxt/nuxt-2/pages/movies/_movieid.vue",
+    "chunkName": "pages/movies/_movieid",
+    "_name": "_5fad515f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kedar.hegde/Desktop/training/nuxt/nuxt-2/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5c9aff99"
+  }
+]
